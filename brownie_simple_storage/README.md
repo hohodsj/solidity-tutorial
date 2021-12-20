@@ -5,3 +5,4 @@ create account: brownie accounts new alias-for-your-account-for-example-test-acc
 list all accounts: brownie accounts list
 delete account: brownie accounts delete alias-for-your-account-for-example-test-account
 brownie run scripts/deploy.py
+brownie test --pdb
