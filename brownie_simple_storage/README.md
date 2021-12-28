@@ -8,3 +8,5 @@ run script: brownie run scripts/deploy.py
 unit test with python debugger: brownie test --pdb
 
 run brownie with a network remember account needs to exists in your network: brownie run scripts/deploy.py --network rinkeby
+
+Enter brownie cli: brownie console

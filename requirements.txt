@@ -1,0 +1,4 @@
+py -m pip install --user pipx
+py -m pipx ensurepath
+pipx install eth-brownie
+pip3 install eth-brownie
